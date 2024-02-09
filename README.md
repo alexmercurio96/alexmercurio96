@@ -41,6 +41,7 @@
 </div>
 
 ###
+<h2>Profilo Linkedin</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alex-mercurio-full-stack-developer" target="_blank">
