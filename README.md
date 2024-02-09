@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sono un Junior Full Stack Developer . Ho frequentato il corso presso Aulab Hackademy, che mi ha fornito competenze e conoscenze Full Stack, in cui ho imparato a sviluppare nel lato client e lato server, lavorando con linguaggi come HTML, CSS, JAVASCRIPT, PHP e il framework Laravel. Ho lavorato anche presso uno studio odontotecnico che mi ha permesso di organizzare i lavori e lavorare in team senza problemi imparando così a lavorare in un'azienda.</h2>
+<h2 align="left">I am a Junior Full Stack Developer. I attended the course at Aulab Hackademy, which provided me with Full Stack skills and knowledge. During the course, I learned to develop on both the client and server sides, working with languages such as HTML, CSS, JAVASCRIPT, PHP, and the Laravel framework. I also gained practical experience at a dental laboratory, where I honed my organizational skills and learned to work seamlessly in a team, thus acquiring valuable experience in a professional setting.</h2>
 
 ###
 
